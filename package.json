@@ -1,0 +1,15 @@
+{
+  "name": "yegeymedrano-torrent",
+  "version": "1.0.0",
+  "description": "Projecto de SOII",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ayege",
+  "license": "ISC",
+  "dependencies": {
+    "bencode": "^0.9.0",
+    "bignum": "^0.13.1"
+  }
+}
